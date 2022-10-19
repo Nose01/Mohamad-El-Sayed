@@ -5,10 +5,10 @@
 ***
 
 ##### Aqui intentare subir todos mis futuros proyectos.
-##### Hasta entonces, mira un octocat
+##### Hasta entonces, mira un gato-pulpo
 ![El gato murio](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/octocat.png?raw=true)
 
-- 🌱 Estoy aprendiendo **a usar: Kotlin, Java, HTML, CSS**
+- 🌱 Estoy aprendiendo a usar: **Kotlin, Java, HTML, CSS**
 
 - 📫 Encuéntrame en **knd10_1@hotmail.com**
 
@@ -17,17 +17,16 @@
 
 Quiero aprender a usar
 
-![HTML]()
-![CSS]()
-![java]()
-![Kotlin]()
-![Git]()
+![HTML](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/HTML.png?raw=true)
+![CSS](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/CSS.png?raw=true)
+![java](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/Java.png?raw=true)
+![Kotlin](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/Kotlin.png?raw=true)
+![Git](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/Git.png?raw=true)
 
-Y como tecnico de proyectos audiovisuales controlo tambien:
+Y como tecnico de proyectos audiovisuales tengo conocimientos de:
 
-![adobe Premiere]()
-![adobe after effects]()
-![Davinci resolve]()
-![Davinci resolve]()
-![Qlab]()
+![adobe Premiere](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/premiere.png?raw=true)
+![adobe after effects](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/afterEffects.png?raw=true)
+![Davinci resolve](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/DaVinci_Resolveg.png?raw=true)
+![Qlab](https://github.com/Nose01/Mohamad-El-Sayed/blob/main/img/qlab.png?raw=true)
 
